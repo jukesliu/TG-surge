@@ -30,3 +30,11 @@ length = 1503
 scheme = BIP 
 dtype = CFLOAT 
 
+2022-05-24 12:36:21,306 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/TURNER/DATA/IMAGERY/sentinel1/coreg_files/reference/IW1/burst_01.slc 
+bands = 1 
+width = 20879 
+length = 1503 
+scheme = BIP 
+dtype = CFLOAT 
+
