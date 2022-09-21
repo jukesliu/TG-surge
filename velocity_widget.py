@@ -216,20 +216,21 @@ class ITSLIVE:
                 f"found datacube - elapsed time: {(time.time()-start):10.2f}",
                 flush=True,
             )
+            print(cubef["properties"])
 
-            if point_epsg_str == cubef["properties"]["data_epsg"]:
+            if point_epsg_str == cubef["properties"]["epsg"]:
                 point_tilexy = point_xy
             else:
                 inPROJtoTilePROJ = pyproj.Transformer.from_proj(
                     f"epsg:{point_epsg_str}",
-                    cubef["properties"]["data_epsg"],
+                    cubef["properties"]["epsg"],
                     always_xy=True,
                 )
                 point_tilexy = inPROJtoTilePROJ.transform(*point_xy)
 
             print(
                 f"original xy {point_xy} {point_epsg_str} maps to datacube {point_tilexy} "
-                f" {cubef['properties']['data_epsg']}"
+                f" {cubef['properties']['epsg']}"
             )
 
             # now test if point is in xy box for cube (should be most of the time; could fail
