@@ -38,3 +38,235 @@ length = 1503
 scheme = BIP 
 dtype = CFLOAT 
 
+2022-09-30 16:25:32,170 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/reference.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:26:09,921 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/reference.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:26:09,954 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/secondary.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:28:57,904 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/reference.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:28:57,940 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/secondary.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:32:37,341 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/reference.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:32:37,373 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/secondary.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:33:51,608 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210121.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:33:51,639 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210202.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:40:47,955 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210121.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 16:40:47,993 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210202.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 17:02:22,144 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210121.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-09-30 17:02:22,177 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged_20210121_20210202/20210202.slc.full 
+bands = 1 
+width = 67382 
+length = 12717 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:30:38,291 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:30:38,330 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:34:13,763 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:34:13,796 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:37:22,340 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:37:22,374 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:38:16,032 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:38:16,065 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:57:10,159 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 08:57:10,191 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:06:43,554 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:06:43,583 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:14:18,795 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:14:18,823 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:20:11,178 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210104.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
+2022-10-04 09:20:11,206 - root - DEBUG - Creating readonly ISCE mmap with 
+file = /Users/jukesliu/Documents/PhD/ISCE_Aug2022/dense_offsets_ampcor/SK_test/merged/20210116.slc.full 
+bands = 1 
+width = 47676 
+length = 6883 
+scheme = BIP 
+dtype = CFLOAT 
+
