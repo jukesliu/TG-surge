@@ -1,0 +1,16 @@
+name: newautoriftenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - autorift
+  - isce2=2.5.3
+  - sentinelsat
+  - rasterio
+  - seaborn
+  - fiona
+  - ordered-set
+  - cmocean
+  - pyproj
+  - geopandas
+  - rasterstats
