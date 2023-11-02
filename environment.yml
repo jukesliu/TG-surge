@@ -1,0 +1,10 @@
+name: autoriftenv
+channels:
+  - conda-forge
+dependencies:
+  - autorift=1.1.0
+  - rasterio
+  - matplotlib
+  - notebook
+  - pandas
+
